@@ -1,2 +1,2 @@
 # hello-world
-Just another repository 
+Hey everyone! I like coffee and taking naps :D 
